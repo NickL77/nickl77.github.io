@@ -2,6 +2,5 @@
 
 source "https://rubygems.org"
 
-gem "no-style-please"
-
 gemspec
+gem "webrick", "~> 1.8"
