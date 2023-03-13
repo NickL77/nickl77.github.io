@@ -2,37 +2,18 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: about
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
-
-  - title: all posts
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
-
-  - title: posts by category
-    post_list:
-      category: example2
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
-
-  - title: rss
-    url: feed.xml
-  
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
+      - title: machine learning engineer @ <a href="https://amazon.com">amazon search</a>
+      - title: <a href="https://engineering.berkeley.edu/">ee/cs @ uc berkeley</a> bachelors '21
+      - title: <a href="https://www.yelp.com/user_details?userid=5vGclYAtLIB8AfVtcRCdCg">yelp elite</a> '22
+  # - title: projects
+  #   entries:
+  #     - title: <a href="https://regexplain.ai/">regexplain.ai</a>
+  - title: >
+          links:
+          <a href="mailto:nicholas.j.liu@gmail.com"><i class="fa fa-envelope"></i></a>,
+          <a href="https://linkedin.com/in/nickl77"><i class="fa fa-linkedin"></i></a>,
+          <a href="https://github.com/nickl77"><i class="fa fa-github"></i></a>,
+          <a href="https://twitter.com/nicholasliu77"><i class="fa fa-twitter"></i></a>,
+          <a href="https://www.instagram.com/xnick77x/"><i class="fa fa-instagram"></i></a>
