@@ -15,7 +15,8 @@ entries:
       - title: <a href="https://www.yelp.com/user_details?userid=5vGclYAtLIB8AfVtcRCdCg">yelp elite</a> '23 and '24
   - title: writings
     entries:
-      - title: <a href="https://frugalgpu.substack.com/p/soft-prompt-tuning-modern-llms-442">Soft Prompt Tuning Modern LLMs</a>
+      - title: Soft Prompt Tuning Modern LLMs
+        url: https://frugalgpu.substack.com/p/soft-prompt-tuning-modern-llms-442
   # - title: projects
   #   entries:
   #     - title: <a href="https://regexplain.ai/">regexplain.ai</a>
