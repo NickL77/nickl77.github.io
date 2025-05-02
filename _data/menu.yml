@@ -5,7 +5,7 @@ entries:
   - title: currently
     entries:
       - title: 'training speculative decoding models: <a href="https://github.com/NickL77/BaldEagle/">BaldEagle</a>'
-      - title: building agents, improving function calling, and local post-training: WIP
+      - title: 'building agents, improving function calling, and local post-training: WIP'
   - title: previous
     entries:
       - title: machine learning engineer @ <a href="https://www.aboutamazon.com/news/retail/how-to-use-amazon-rufus">amazon rufus</a> and <a href="https://amazon.com">amazon search</a>
