@@ -4,7 +4,7 @@
 entries:
   - title: currently
     entries:
-      - title: training speculative decoding models: <a href="https://github.com/NickL77/BaldEagle/">BaldEagle</a>
+      - title: 'training speculative decoding models: <a href="https://github.com/NickL77/BaldEagle/">BaldEagle</a>'
       - title: building agents, improving function calling, and local post-training: WIP
   - title: previous
     entries:
