@@ -2,11 +2,18 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: about
+  - title: currently
     entries:
-      - title: machine learning engineer @ <a href="https://amazon.com">amazon search</a>
+      - title: training speculative decoding models: <a href="https://github.com/NickL77/BaldEagle/">BaldEagle</a>
+      - title: building agents, improving function calling, and local post-training: WIP
+  - title: previous
+    entries:
+      - title: machine learning engineer @ <a href="https://www.aboutamazon.com/news/retail/how-to-use-amazon-rufus">amazon rufus</a> and <a href="https://amazon.com">amazon search</a>
       - title: <a href="https://engineering.berkeley.edu/">ee/cs @ uc berkeley</a> bachelors '21
-      - title: <a href="https://www.yelp.com/user_details?userid=5vGclYAtLIB8AfVtcRCdCg">yelp elite</a> '22
+      - title: <a href="https://www.yelp.com/user_details?userid=5vGclYAtLIB8AfVtcRCdCg">yelp elite</a> '23 and '24
+  - title: writings
+    entries:
+      - title: <a href="https://frugalgpu.substack.com/p/soft-prompt-tuning-modern-llms-442">Soft Prompt Tuning Modern LLMs</a>
   # - title: projects
   #   entries:
   #     - title: <a href="https://regexplain.ai/">regexplain.ai</a>
