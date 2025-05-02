@@ -9,6 +9,8 @@ entries:
   - title: previous
     entries:
       - title: machine learning engineer @ <a href="https://www.aboutamazon.com/news/retail/how-to-use-amazon-rufus">amazon rufus</a> and <a href="https://amazon.com">amazon search</a>
+        entries:
+          - title: Benchmarking, LLM-as-judge, RAG, Hallucinations, and Long-Context
       - title: <a href="https://engineering.berkeley.edu/">ee/cs @ uc berkeley</a> bachelors '21
       - title: <a href="https://www.yelp.com/user_details?userid=5vGclYAtLIB8AfVtcRCdCg">yelp elite</a> '23 and '24
   - title: writings
